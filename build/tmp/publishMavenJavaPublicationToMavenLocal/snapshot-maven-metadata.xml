@@ -3,7 +3,7 @@
   <groupId>come.selfstudy</groupId>
   <artifactId>listener</artifactId>
   <versioning>
-    <lastUpdated>20240517164732</lastUpdated>
+    <lastUpdated>20240517165313</lastUpdated>
     <snapshot>
       <localCopy>true</localCopy>
     </snapshot>
@@ -11,18 +11,18 @@
       <snapshotVersion>
         <extension>pom</extension>
         <value>0.0.1-SNAPSHOT</value>
-        <updated>20240517164732</updated>
-      </snapshotVersion>
-      <snapshotVersion>
-        <extension>module</extension>
-        <value>0.0.1-SNAPSHOT</value>
-        <updated>20240517164732</updated>
+        <updated>20240517165313</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>plain</classifier>
         <extension>jar</extension>
         <value>0.0.1-SNAPSHOT</value>
-        <updated>20240517164732</updated>
+        <updated>20240517165313</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>module</extension>
+        <value>0.0.1-SNAPSHOT</value>
+        <updated>20240517165313</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>

@@ -27,11 +27,11 @@
         {
           "name": "listener-0.0.1-SNAPSHOT-plain.jar",
           "url": "listener-0.0.1-SNAPSHOT-plain.jar",
-          "size": 2902,
-          "sha512": "c2a0f137c6164ec15708f4bc320df9bc15695229a9f52500b7e78b712b101d6ffe28e22b3c4cd31ddcb1aee8baf838ee2680bdf779c245b5df5512ecdbbec956",
-          "sha256": "44672a53e68ea23cd5275c31748214b974b28be725db5658738a51dea3d7817b",
-          "sha1": "4f2d4d71c1ef9d28c9bd0b3344e5cf7565d2b2c5",
-          "md5": "21fc00007c6a0560a08700a75f099be0"
+          "size": 2806,
+          "sha512": "28536c07fc8994617ae155e7da9464087a91b57f7888e83060f17b2ac851957ee0e8580c5afe534eddfe3a7e7005a3ebd451de3fdd950a9142f9ee92ba0ef8cc",
+          "sha256": "3fa3af06bc8760bdcc29e44878999b2c42ccf8befe090d10c962f82e6177dabb",
+          "sha1": "1b1cf4bf74c8994089b8efecf2dac8d904b78004",
+          "md5": "674cb8f857018a3fa2ec9b2615b10d97"
         }
       ]
     },
@@ -68,11 +68,11 @@
         {
           "name": "listener-0.0.1-SNAPSHOT-plain.jar",
           "url": "listener-0.0.1-SNAPSHOT-plain.jar",
-          "size": 2902,
-          "sha512": "c2a0f137c6164ec15708f4bc320df9bc15695229a9f52500b7e78b712b101d6ffe28e22b3c4cd31ddcb1aee8baf838ee2680bdf779c245b5df5512ecdbbec956",
-          "sha256": "44672a53e68ea23cd5275c31748214b974b28be725db5658738a51dea3d7817b",
-          "sha1": "4f2d4d71c1ef9d28c9bd0b3344e5cf7565d2b2c5",
-          "md5": "21fc00007c6a0560a08700a75f099be0"
+          "size": 2806,
+          "sha512": "28536c07fc8994617ae155e7da9464087a91b57f7888e83060f17b2ac851957ee0e8580c5afe534eddfe3a7e7005a3ebd451de3fdd950a9142f9ee92ba0ef8cc",
+          "sha256": "3fa3af06bc8760bdcc29e44878999b2c42ccf8befe090d10c962f82e6177dabb",
+          "sha1": "1b1cf4bf74c8994089b8efecf2dac8d904b78004",
+          "md5": "674cb8f857018a3fa2ec9b2615b10d97"
         }
       ]
     }
