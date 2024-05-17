@@ -1,0 +1,80 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "come.selfstudy",
+    "module": "listener",
+    "version": "0.0.1-SNAPSHOT",
+    "attributes": {
+      "org.gradle.status": "integration"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.7"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 21,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "listener-0.0.1-SNAPSHOT-plain.jar",
+          "url": "listener-0.0.1-SNAPSHOT-plain.jar",
+          "size": 2909,
+          "sha512": "5b8c7e404d42b6e3ba2d313dea7422c1367fafdd2e5efbfc54abc436b642e1bc4dc2dc8814a3f2f2627b420532dd6567c4c2641d4410821e797d77b9e20e17f0",
+          "sha256": "f4e8ec494aec92fe8365eaf4f77eb7586ba2f3290ec2e562353bb52c03abdfc2",
+          "sha1": "62a613f36e973a912458b856c7b7c101b98cb729",
+          "md5": "b727694a9e6c387213244a222ad4e39b"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 21,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "org.springframework.boot",
+          "module": "spring-boot-starter"
+        },
+        {
+          "group": "org.apache.logging.log4j",
+          "module": "log4j-api",
+          "version": {
+            "requires": "2.14.0"
+          }
+        },
+        {
+          "group": "org.apache.logging.log4j",
+          "module": "log4j-core",
+          "version": {
+            "requires": "2.14.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "listener-0.0.1-SNAPSHOT-plain.jar",
+          "url": "listener-0.0.1-SNAPSHOT-plain.jar",
+          "size": 2909,
+          "sha512": "5b8c7e404d42b6e3ba2d313dea7422c1367fafdd2e5efbfc54abc436b642e1bc4dc2dc8814a3f2f2627b420532dd6567c4c2641d4410821e797d77b9e20e17f0",
+          "sha256": "f4e8ec494aec92fe8365eaf4f77eb7586ba2f3290ec2e562353bb52c03abdfc2",
+          "sha1": "62a613f36e973a912458b856c7b7c101b98cb729",
+          "md5": "b727694a9e6c387213244a222ad4e39b"
+        }
+      ]
+    }
+  ]
+}
