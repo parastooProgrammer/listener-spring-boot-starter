@@ -1,2 +1,0 @@
-org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
-come.selfstudy.listener.config.CustomConfiguration
